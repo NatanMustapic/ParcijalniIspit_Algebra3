@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\bin\Debug\Ispit.Konzola.exe.config
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\bin\Debug\Ispit.Konzola.exe
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\bin\Debug\Ispit.Konzola.pdb
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\bin\Debug\Ispit.Model.dll
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\bin\Debug\Ispit.Model.pdb
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\obj\Debug\Ispit.Ko.64449859.Up2Date
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\obj\Debug\Ispit.Konzola.exe
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Konzola\obj\Debug\Ispit.Konzola.pdb

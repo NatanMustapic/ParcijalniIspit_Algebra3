@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Model\bin\Debug\Ispit.Model.dll
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Model\bin\Debug\Ispit.Model.pdb
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Model\obj\Debug\Ispit.Model.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Model\obj\Debug\Ispit.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Model\obj\Debug\Ispit.Model.dll
+C:\Users\Admin\Desktop\Algebra\Predavanja\LINQ\Ispit\Ispit_Linq\Ispit.Model\obj\Debug\Ispit.Model.pdb
